@@ -7,7 +7,7 @@ from os import *
 
 word_big = 50
 game_time = 0
-SEED = randint(1,21474783647)
+SEED = randint(1,9999999999999999999999)
 
 
 class Hand(Entity):
